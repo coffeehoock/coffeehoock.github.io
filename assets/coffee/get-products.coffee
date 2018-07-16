@@ -1,6 +1,6 @@
 $(document).ready =>
 	
-	__FILE_INDEX__ = "https://raw.githubusercontent.com/coffeehoock/Test_task_front2/master/products.json"
+	__FILE_INDEX__ = "https://raw.githubusercontent.com/coffeehoock/API/master/products.json"
 	
 	productNum = 0
 	openProductNum = 10
