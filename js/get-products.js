@@ -1,7 +1,7 @@
 $(document).ready((function(_this) {
   return function() {
     var __FILE_INDEX__, alreadyOpen, basket, basketEmpty, getPush, openProductNum, productNum, productsComponent, stepperVal, updateOpenNum;
-    __FILE_INDEX__ = "https://raw.githubusercontent.com/coffeehoock/Test_task_front2/master/products.json";
+    __FILE_INDEX__ = "https://raw.githubusercontent.com/coffeehoock/API/master/products.json";
     productNum = 0;
     openProductNum = 10;
     alreadyOpen = 0;
